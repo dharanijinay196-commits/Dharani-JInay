@@ -1,7 +1,6 @@
 # Dharani Jinay | Data Scientist
 
-📍 India | 📧dharanijinay196@gmail.com | 🔗https://www.linkedin.com/in/dharani-jinay-800b51218?utm_source=share_via&utm_content=profile&utm_medium=member_ios | 💻 [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
+📍 India | 📧dharanijinay196@gmail.com | 🔗https://www.linkedin.com/in/dharani-jinay-800b51218?utm_source=share_via&utm_content=profile&utm_medium=member_ios | 💻https://github.com/dharanijinay196-commits
 ---
 
 ## 🎯 PROFESSIONAL SUMMARY
@@ -68,8 +67,7 @@ Python | SQL | Machine Learning | Statistics | Power BI | Tableau
 ## 🔗 CONNECT
 
 * LinkedIn: https://www.linkedin.com/in/dharani-jinay-800b51218?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
+* GitHub: https://github.com/dharanijinay196-commits
 ---
 
 ⭐ Open to Data Scientist / Data Analyst opportunities | Let’s connect!
